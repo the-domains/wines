@@ -1,0 +1,28 @@
+name: Wines
+favicon: null
+layout_spectrum: 0.8806236446835101
+typography_spectrum: 0.5155566504690796
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#A690A4'
+    - '#B68F9D'
+    - '#C8ACAB'
+    - '#FBB9BF'
+    - '#E376B7'
+  brandStrength: 0.5854345879051834
+  lightness: 0.5161388742271811
+  saturation: 0.9586440757848322
+  rhythmicContrast: 0.30260181962512434
+purpose: []
